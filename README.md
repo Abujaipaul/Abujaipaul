@@ -6,12 +6,12 @@ I'm a FrontEnd Engineer and an advocate for all-things technology. I'm passionat
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
+- 👨 Pronouns: He/him
 - 💡 Fun fact: I graduated from AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2025.
-- 🌱 I’m in a relationship with JavaScript, Reactjs, and Typescript.
+- 🌱 Tech Stack: Deeply focused on JavaScript, React.js, and TypeScript.
 - 😊 I love to build.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtoabujaipaul1@gmail.com.
+- 💼 Job interests: Software Engineer, Open to Frontend Engineer and UI Engineer opportunities.
+- 📫 let's connect at abujaipaul1@gmail.com.
 
 ---
 
